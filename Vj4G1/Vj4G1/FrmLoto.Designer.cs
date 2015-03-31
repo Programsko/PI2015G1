@@ -83,42 +83,42 @@
             this.txtUplaceniBroj7.Location = new System.Drawing.Point(223, 19);
             this.txtUplaceniBroj7.Name = "txtUplaceniBroj7";
             this.txtUplaceniBroj7.Size = new System.Drawing.Size(30, 20);
-            this.txtUplaceniBroj7.TabIndex = 0;
+            this.txtUplaceniBroj7.TabIndex = 6;
             // 
             // txtUplaceniBroj6
             // 
             this.txtUplaceniBroj6.Location = new System.Drawing.Point(187, 19);
             this.txtUplaceniBroj6.Name = "txtUplaceniBroj6";
             this.txtUplaceniBroj6.Size = new System.Drawing.Size(30, 20);
-            this.txtUplaceniBroj6.TabIndex = 0;
+            this.txtUplaceniBroj6.TabIndex = 5;
             // 
             // txtUplaceniBroj5
             // 
             this.txtUplaceniBroj5.Location = new System.Drawing.Point(151, 19);
             this.txtUplaceniBroj5.Name = "txtUplaceniBroj5";
             this.txtUplaceniBroj5.Size = new System.Drawing.Size(30, 20);
-            this.txtUplaceniBroj5.TabIndex = 0;
+            this.txtUplaceniBroj5.TabIndex = 4;
             // 
             // txtUplaceniBroj4
             // 
             this.txtUplaceniBroj4.Location = new System.Drawing.Point(115, 19);
             this.txtUplaceniBroj4.Name = "txtUplaceniBroj4";
             this.txtUplaceniBroj4.Size = new System.Drawing.Size(30, 20);
-            this.txtUplaceniBroj4.TabIndex = 0;
+            this.txtUplaceniBroj4.TabIndex = 3;
             // 
             // txtUplaceniBroj3
             // 
             this.txtUplaceniBroj3.Location = new System.Drawing.Point(79, 19);
             this.txtUplaceniBroj3.Name = "txtUplaceniBroj3";
             this.txtUplaceniBroj3.Size = new System.Drawing.Size(30, 20);
-            this.txtUplaceniBroj3.TabIndex = 0;
+            this.txtUplaceniBroj3.TabIndex = 2;
             // 
             // txtUplaceniBroj2
             // 
             this.txtUplaceniBroj2.Location = new System.Drawing.Point(43, 19);
             this.txtUplaceniBroj2.Name = "txtUplaceniBroj2";
             this.txtUplaceniBroj2.Size = new System.Drawing.Size(30, 20);
-            this.txtUplaceniBroj2.TabIndex = 0;
+            this.txtUplaceniBroj2.TabIndex = 1;
             // 
             // txtUplaceniBroj1
             // 
