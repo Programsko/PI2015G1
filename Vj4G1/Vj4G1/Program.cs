@@ -16,7 +16,7 @@ namespace Vj4G1
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new FrmGlavna());
+            Application.Run(new FrmLoto());
         }
     }
 }

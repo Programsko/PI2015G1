@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Vj4G1
 {
-    public partial class FrmGlavna : Form
+    public partial class FrmLoto : Form
     {
-        public FrmGlavna()
+        public FrmLoto()
         {
             InitializeComponent();
         }
